@@ -1,5 +1,9 @@
 # Kawa
 ## a 32 key 'fixed-split' keyboard
-This is currently a work in progress. I am currently learning PCB design for 
-keyboards and this will be my first project. 
-Readme updates will follow further builds.
+
+Forked from CoffeeBreakKeyboards [here](https://github.com/CoffeeBreakKeyboards/kawa) and updated to use Kailh Hotswap Sockets. 
+
+Plate files created:
+ - Base Plate x1
+ - Top Plate x2
+ - Acrylic Centre Guard x1
