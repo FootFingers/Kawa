@@ -18,3 +18,7 @@ Kawa PCB Top Preview
 Kawa PCB Bottom Preview
 ![](images/kawaPCBbottom.PNG)
 
+## Firmware
+
+Firmware files are available [here](https://github.com/sofubi/qmk_firmware/tree/kawa/rev0.1/keyboards/handwired/kawa)
+
