@@ -7,3 +7,9 @@ Plate files created:
  - Base Plate x1
  - Top Plate x2
  - Acrylic Centre Guard x1
+
+Kawa PCB Top Preview
+![](images/kawaPCB.PNG)
+
+Kawa PCB Bottom Preview
+![](images/kawaPCBbottom.PNG)
