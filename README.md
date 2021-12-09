@@ -5,7 +5,9 @@ Forked from CoffeeBreakKeyboards [here](https://github.com/CoffeeBreakKeyboards/
 
 A sandwich mount case was also created based on the original Kawa PCB footprint. The central section around the OLED and controller board is covered with a sheet of acrylic. 
 
+
 ![](images/kawa.jpg)
+*Pic of Kawa build courtesy of Porkus*
 
 ## Case
 Plate files created:
