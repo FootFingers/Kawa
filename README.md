@@ -15,13 +15,6 @@ Plate files created:
  - Top Plate x2
  - Acrylic Centre Guard x1
 
-## PCB Preview
-Kawa PCB Top Preview
-![](images/kawaPCB.PNG)
-
-Kawa PCB Bottom Preview
-![](images/kawaPCBbottom.PNG)
-
 ## Firmware
 
 Firmware files are available [here](https://github.com/sofubi/qmk_firmware/tree/kawa/rev0.1/keyboards/handwired/kawa)
