@@ -19,3 +19,7 @@ Plate files created:
 
 Firmware files are available [here](https://github.com/sofubi/qmk_firmware/tree/kawa/rev0.1/keyboards/handwired/kawa)
 
+## Usage
+
+Use these files at your own risk. This project is currently in development, and as such is likely to contain issues. 
+
