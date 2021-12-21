@@ -1,4 +1,4 @@
-# Kawa
+# Kawa-HotSwap
 ## A 32 key 'fixed-split' pro-micro based keyboard with a 128x64 OLED display.
 
 Forked from CoffeeBreakKeyboards [here](https://github.com/CoffeeBreakKeyboards/kawa) and updated to use Kailh Hotswap Sockets. 
