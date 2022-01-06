@@ -25,3 +25,8 @@ Wireless firmware is still currently in development.
 
 Use these files at your own risk. This project is currently in development, and as such is likely to contain issues. 
 
+## ToDo
+- [ ] Wireless Firmware
+- [ ] Build Guide
+- [x] PCB updated to use hotswap sockets
+- [x] Sandwich Mount Case + Acrylic Component Cover
