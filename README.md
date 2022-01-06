@@ -3,7 +3,7 @@
 
 Forked from CoffeeBreakKeyboards [here](https://github.com/CoffeeBreakKeyboards/kawa) and updated to use Kailh Hotswap Sockets. 
 
-A sandwich mount case was also created based on the original Kawa PCB footprint. The central section around the OLED and controller board is covered with a sheet of acrylic. 
+A sandwich mount case was also created based on the original Kawa PCB footprint. The central section around the OLED and controller board is covered with a sheet of acrylic, and hardware has been added to provide wireless support. 
 
 
 ![](images/kawa.jpg)
@@ -18,6 +18,8 @@ Plate files created:
 ## Firmware
 
 Firmware files are available [here](https://github.com/sofubi/qmk_firmware/tree/kawa/rev0.1/keyboards/handwired/kawa)
+
+Wireless firmware is still currently in development.
 
 ## Usage
 
